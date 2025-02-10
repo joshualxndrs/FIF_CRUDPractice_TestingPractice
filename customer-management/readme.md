@@ -12,12 +12,12 @@ This project is a **Spring Boot application** built with **Java 17**, demonstrat
   - **Many-to-One**: Each **Vehicle** belongs to one **User**.
 
 ## **Features**
-- ✅ **CRUD Operations**: Create, read, update, and delete Users and Vehicles.
-- ✅ **File Upload**: Vehicles can have **one image** (JPEG, PNG, or WEBP) that can be uploaded, retrieved, updated, and deleted.
-- ✅ **Testing**:
+- **CRUD Operations**: Create, read, update, and delete Users and Vehicles.
+- **File Upload**: Vehicles can have **one image** (JPEG, PNG, or WEBP) that can be uploaded, retrieved, updated, and deleted.
+- **Testing**:
   - **Postman** for API testing.
   - **JUnit & Mockito** for automated unit testing.
 
 ## **Testing Tools**
-- 🔹 **Postman** for CRUD operation testing.
-- 🔹 **JUnit 5 & Mockito** for unit testing.
+- **Postman** for CRUD operation testing.
+- **JUnit 5 & Mockito** for unit testing.
